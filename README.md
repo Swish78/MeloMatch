@@ -23,7 +23,7 @@ To get started with MeloMatch, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/melomatch.git
+   git clone https://github.com/Swish78/melomatch.git
    ```
 
 2. Install dependencies:
